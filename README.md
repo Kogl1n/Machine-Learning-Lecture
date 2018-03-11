@@ -33,7 +33,8 @@ Ex 2: Prediction complexity of linear least square and kNN: Comparison
 Ex 3: Convexity: Proof that L2 loss is convex.
 Ex 4: Inverse of a matrix: Proof
 Ex 5: Least-squares regression for multi-class classification: Iris dataset
-Ex 6: Decision boundary: Example with 1NN and linear least-squares regression without and with quadratic basis functions.
+Ex 6: Decision boundary: Example with 1NN and linear least-squares regression 
+      without and with quadratic basis functions.
 ```
 - Sheet 05
 ```
