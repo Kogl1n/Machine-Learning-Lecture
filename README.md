@@ -1,7 +1,9 @@
 # Machine-Learning-Lecture
 UHH: Prof. Dr. Ulrike von Luxburg, Dr. Tobias Lang
 
-# Sheets
+
+# Exercise Solutions
+## Sheets
 - Sheet 01
 ```
 Ex 1: Dataset Exploration - vaccination of children
